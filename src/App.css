@@ -1,0 +1,73 @@
+.App {
+  text-align: left;
+  tab-size: 2 px;
+}
+
+/* .App-logo {
+  height: 50px;
+  width:50px;
+} */
+.App-header {
+  text-align: center;
+  height: 100px;
+  align-items: center;
+  justify-content: center;
+  tab-size: 2;
+  font-family: 'Times New Roman', Times, serif  ;
+}
+.first-logo{
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  height: 50%;
+  width:50%;
+}
+.second-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 50%;
+  width:50%;
+}
+
+.third-logo{
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  height: 50%;
+  width:50%;
+}
+
+.fourth-logo{
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  height: 50%;
+  width:50%;
+}
+
+.login{
+  text-align: right;
+  align-items: right;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* @font-face {
+  font-family: "SourceSansPro-SemiBold";
+  src: local("SourceSansPro-SemiBold"), url("./components/Menu/Assets/font/Source_Sans_Pro/SourceSansPro-SemiBold.ttf") format("truetype");
+} */
+.local {
+  font-family: "SourceSansPro-Regular", sans-serif;
+}
+
+/* @font-face {
+  font-family: "Installed";
+  src: local("Montserrat"), url("./components/Menu/Assets/font/static/Montserrat-Regular.ttf") format("truetype");
+} */
+.local {
+  font-family: "Montserrat", sans-serif;
+}
