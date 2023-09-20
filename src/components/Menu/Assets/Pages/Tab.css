@@ -1,0 +1,90 @@
+.digital{
+  position: absolute;
+  bottom: -453%;
+
+}
+.modern{
+  position: absolute;
+  bottom: -475%;
+  padding-left: 28px;
+}
+.wholesale{
+  position: absolute;
+  bottom: -460%;
+  padding-left: 48px;
+}
+.professional{
+  position: absolute;
+  bottom: -442%;
+  padding-left: 68px;
+}
+.steel{
+  position: absolute;
+  bottom: -475%;
+  padding-left: 98px;
+}
+.non{
+  position: absolute;
+  bottom: -475%;
+  padding-left: 110px;
+}
+.education{
+  position: absolute;
+  bottom: -475%;
+  padding-left: 140px;
+}
+.construction{
+  position: absolute;
+  bottom: -475%;
+  padding-left: 160px;
+}
+.plastic{
+  position: absolute;
+  bottom: -440%;
+  padding-left: 180px;
+}
+.manufacturing{
+  position: absolute;
+  bottom:-475% ;
+  padding-left: 210px;
+}
+.service{
+  position: absolute;
+  bottom:-487% ;
+  padding-left: 230px;
+}
+.due{
+  position: absolute;
+  bottom:-475% ;
+  padding-left: 250px;
+}
+.fmcg{
+  position: absolute;
+  bottom:-475% ;
+  padding-left: 280px;
+}
+.healthcare{
+  position: absolute;
+  bottom:-455% ;
+  padding-left: 300px;
+}
+.financial{
+  position: absolute;
+  bottom:-475% ;
+  padding-left:325px;
+}
+.public{
+  position: absolute;
+  bottom:-550% ;
+  padding-left: 360px;
+}
+.retail{
+  position: absolute;
+  bottom:-450% ;
+  padding-left: 380px;
+}
+.energy{
+  position: absolute;
+  bottom: -498% ;
+  padding-left: 400px;
+}

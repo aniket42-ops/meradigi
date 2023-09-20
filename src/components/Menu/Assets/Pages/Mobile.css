@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Playfair+Display:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.for {
+  color: #111633;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+}
+.mobile {
+  color: #111633;
+  margin: 0px 0px 30px 0px;
+  font-family: "Poppins", Sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 70px;
+}
+.welcome {
+  font-family: "Poppins", Sans-serif;
+  font-size: 1.6rem;
+}
+.elevate {
+  display: inline-block;
+  width: 100%;
+  font-size: 16px;
+  line-height: 24px;
+}
+.android {
+  background-color: #383838;
+  padding: 50px 40px 50px 40px;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  border-color: #f5f5f5;
+  border-radius: 12px 12px 12px 12px;
+  color: #e2e2e2;
+  font-family: "Poppins", Sans-serif;
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.how {
+  color: #000000;
+  margin-top: 10%;
+  margin-bottom: 8%;
+  font-family: "Poppins", Sans-serif;
+  font-size: 36px;
+  margin-left: 40%;
+  font-weight: 700;
+}
+.work {
+  font-family: "Oleo Script Swash Caps", Sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  font-style: italic;
+  color: #fa346e;
+}
+.mobil {
+  height: 740px;
+  width: 740px;
+}
+.edit {
+  padding: 0px 0px 0px 0px;
+  color: #111633;
+  font-family: "Poppins", Sans-serif;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 25px;
+}
+.special {
+  color: #000000;
+  margin: 0px 0px 17px 0px;
+  font-family: "Raleway", Sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  margin-left: 37%;
+}
+.features {
+  font-family: "Playfair Display", Sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  font-style: italic;
+  color: #fa346e;
+}
+.river {
+  color: #565656;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 15%;
+}

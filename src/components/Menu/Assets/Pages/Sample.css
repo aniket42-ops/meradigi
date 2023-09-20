@@ -1,0 +1,22 @@
+.title{
+   margin-top: 100px;
+   font-weight: "500";
+   margin-left: 20px;
+}
+.but{
+   width: 100px;
+    padding: 9px 5px 0 5px;
+    margin-left: 20px;
+    background-color: #3497FF;
+    color: #FFF;
+    font-family: "Poppins",Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 9px 9px 9px 9px;
+}
+.ready{
+   font-size: 24px;
+   line-height: 40px;
+   color: #fff;
+   margin: 0 0 0 0;
+}

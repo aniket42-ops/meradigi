@@ -1,0 +1,71 @@
+
+/* .background{
+    background: url("./video_bg.mp4");
+} */
+.background-video{
+
+    height: 100%;
+    width: 100%;
+    /* float: left; */
+    top: 0;
+    padding: none;
+    /* position: fixed; */ /* optional depending on what you want to do in your app */
+    position: absolute;
+    left: 0;
+}
+.web{
+    text-align: left;
+    font-size: 96px;
+    font-family: "Poppins",Sans-serif;
+    font-weight: 700;
+    color: white;
+    z-index: 100;
+    position: absolute;
+    left: 20px;
+    top: 550px;
+}
+
+.best{
+    color: white;
+    font-size: 24px;
+    z-index: 100;
+    position: absolute;
+    left: 20px;
+    top: 660px;
+}
+.clock{
+    width: 580px;
+    height: 435px;
+}
+.website{
+    color: #000;
+    font-family: "Poppins",Sans-serif;
+    font-weight: 600;
+}
+.more{
+    line-height: 1.5;
+    margin: 0 0 1em 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.free1{
+    font-family: "Poppins",Sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    fill: #000;
+    color: #000;
+    background-color: #009EFF;
+    border-radius: 20px 20px 20px 20px;
+    padding: 17px 17px 17px 17px;
+    width: 200px;
+}
+.Speak{
+    margin-top: 5px;
+    color: #000;
+    font-family: "Poppins",Sans-serif;
+    font-size: 22px;
+    font-weight: 500
+}

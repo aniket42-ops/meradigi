@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "+What services do you offer?",
+    "answer": "We offer a range of web development services, including website design and development, e-commerce development, custom webapplication development, website maintenance and support, and more."
+  },
+  {
+    "id": 2,
+    "question": "+How long does it take to develop a website?",
+    "answer": "The development time for a website depends on the complexity of the project, the features required, and the size of the website. We provide an estimated timeline for each project after we understand our client’s requirements."
+  },
+  {
+    "id": 3,
+    "question": "+Can you help us redesign our existing website?",
+    "answer": "Yes, we can help redesign your existing website. Our team of web developers and designers will work with you to create a design that aligns with your brand and meets your business needs"
+  },
+  {
+    "id": 4,
+    "question": "+Can you create a custom web application for our business?",
+    "answer": "Yes, we can create a custom web application tailored to your specific business needs. Our team of developers will work with you to understand your requirements and create a solution that aligns with your business goals."
+  },
+  {
+    "id": 5,
+    "question": "+How do you ensure website security?",
+    "answer": "We follow industry best practices and employ a range of security measures to ensure the websites we develop are secure. This includes implementing SSL certificates, secure login systems, and regularly monitoring for potential security threats."
+  },
+  {
+    "id": 6,
+    "question": "+What platform do you use for website development?",
+    "answer": "We use a range of platforms for website development, including React, Headless CMS, PHP, Laravel, HTML/CSS/JavaScript, WordPress, Shopify, Magento, and custom platforms based on client requirements"
+  },
+  {
+    "id": 7,
+    "question": "+Do you offer website maintenance and support services?",
+    "answer": "Yes, we offer website maintenance and support services to ensure that your website remains up-to-date and secure. This includes regular updates, backups, and technical support."
+  },
+  {
+    "id": 8,
+    "question": "+Can you help with website content creation?",
+    "answer": "Yes, we offer website content creation services to help our clients create engaging and SEO-friendly content for their websites. Our team of content writers can create website copy, blog posts, and other content to support your online marketing efforts. If you have any other questions or would like to discuss your web development needs, please feel free to contact us."
+  }
+]

@@ -1,0 +1,168 @@
+.contain{
+    display: flex;
+}
+.boxes1{
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 200px;
+}
+.boxes2{
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_2.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 20px;
+}
+.we{
+    color: #716c80;
+    font-family: "Lato",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.boxes3{
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_4.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 20px;
+    margin-right: auto;
+}
+.boxes4{
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 20px;
+    margin-right: 200px ;
+}
+
+.succeed{
+    color: #6A56A6;
+    font-family: "Poppins",Sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    text-align: center;
+    width: var(--container-widget-width,91.339%);
+    max-width: 91.339%;
+    --container-widget-width: 91.339%;
+    --container-widget-flex-grow: 0;
+    margin-top: 100px;
+}
+.boxes5{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px 20px 20px 20px;
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    margin-left: 100px;
+}
+.advices{
+    padding: 0 0 0 0;
+    color: #58468c;
+    font-family: "Poppins",Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+.get{
+    color: #716c80;
+    font-family: "Roboto",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+.boxes6{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px 20px 20px 20px;
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 20px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+}
+.boxes7{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px 20px 20px 20px;
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    margin-left: 20px;
+}
+.boxes8{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px 20px 20px 20px;
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    margin-left: 20px;
+    margin-right: 100px;
+}
+.about-us{
+    vertical-align: middle;
+    display: inline-block;
+    width:475px;
+    height: 541px;
+    padding-left: 100px;
+}
+.your{
+    color: #716c80;
+    font-family: "Lato",Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0 0 0 0;
+}
+.free{
+    font-size: 28px;
+    line-height: 36px;
+    color: #6a56a6;
+    text-shadow: 0 0 0 rgba(0,0,0,.3);
+    margin: 015px 0 0 0;
+    font-family: "Poppins",Sans-serif;
+    font-size: 44px;
+    font-weight: 300;
+    text-transform: capitalize;
+    line-height: 54px;
+}
+.needs{
+    color: #716c80;
+    font-family: "Lato",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 30px 0 20px 0;
+}

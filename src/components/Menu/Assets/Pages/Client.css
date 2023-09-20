@@ -1,0 +1,94 @@
+.says {
+  color: #5580ff;
+  font-family: "Lato", Sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  margin: 0 0 0 0;
+  text-align: center;
+}
+
+.testimonials {
+  color: #6a56a6;
+  margin: 15px 0 20px 0;
+  font-family: "Poppins", Sans-serif;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 42px;
+  text-align: center;
+}
+
+.our {
+  color: #6a56a6;
+  margin: 0 0 020px 0;
+  margin-left: 100px;
+  font-family: "Poppins", Sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 35px;
+}
+
+/* (A) FORCE SLIDES INTO SINGLE ROW */
+.hmove {
+  display: flex;
+}
+.hslide {
+  width: 100%;
+  flex-shrink: 0;
+  color: #8c8c8c;
+  margin: 15px 0 30px 0;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+/* (B) OUTER WRAPPER HIDE SCROLLBAR */
+.hwrap {
+  overflow: hidden;
+}
+
+/* (C) SHIFT SLIDES WITH CSS ANIMATION */
+/* (C1) SLIDES POSITION */
+.hmove {
+  position: relative;
+  top: 0;
+  right: 0;
+}
+@keyframes slideh {
+  0% {
+    right: 0;
+  }
+     30% {
+    right: 0;
+  }
+  33% {
+    right: 100%;
+  }
+  53% {
+    right: 100%;
+  }
+  63%{
+    right:100%;
+  }
+  66% {
+    right: 200%;
+  }
+  97% {
+    right: 200%;
+  }
+  100% {
+    right: 0;
+  }
+}
+
+/* (C2) MOVE SLIDES */
+.hmove {
+  animation: slideh linear 10s infinite;
+}
+.hmove:hover {
+  animation-play-state: paused;
+}
+
+.sarah {
+  color: #000;
+  margin-bottom: 0;
+}

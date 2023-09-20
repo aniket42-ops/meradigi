@@ -1,0 +1,55 @@
+.navbar {
+    background: #ffffff;
+    display: flex;
+    padding: 10px;
+    margin-left: auto;
+    align-items: center;
+    box-shadow: 14px -8px 24px 2px rgb(0 0 0 / 37%);
+    width:100%;
+    font-family:"Montserrat-Regualar",sans-serif;
+    position: fixed;
+    box-sizing: border-box;
+  }
+  
+  .navbar-logo {
+    color: rgb(202, 109, 109);
+    text-decoration: none;
+    font-size: 2rem;
+    display: flex;
+    justify-content: left;
+    width: 10rem;
+    margin-left: 15px;
+  }
+  
+  .nav-items {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    justify-content: flex-end;
+    margin-right: 2rem;
+    
+  }
+  
+  .nav-item {
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    
+  }
+  
+  .nav-item a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    font-weight: 600;
+    margin-right: 2rem;
+    padding: 6px 16px;
+    border-radius: 5px;
+  }
+  .nav-item :hover{
+    color:#e22658 ;
+    text-decoration-color: #e22658;
+    text-decoration-line: underline;
+  }
+
+

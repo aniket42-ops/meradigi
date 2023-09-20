@@ -1,0 +1,49 @@
+.do {
+  color: #4f80ff;
+  font-family: "Red Hat Display", Sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 1.3em;
+  letter-spacing: 3.5px;
+  margin-left: 40px;
+}
+.our1 {
+  color: #343f5a;
+  font-family: "Poppins", Sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 1.4em;
+  margin-left: 40px;
+}
+.we1 {
+  color: #5c6680;
+  font-family: "Red Hat Display", Sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.8em;
+  z-index: 11;
+  margin-left: 40px;
+}
+.consult {
+  height: 102px;
+  width: 102px;
+  padding: 0px 0px 0px 0px;
+  
+}
+.consultation {
+  font-size: 16px;
+  color: #343f5a;
+  font-family: "Poppins", Sans-serif;
+  font-weight: 700;
+  line-height: 1.3em;
+  margin: 0px 0px 16px 0px;
+}
+.we2 {
+  font-size: 14px;
+  margin: 0px 0px 23px 0px;
+  color: #5c6680;
+  font-family: "Poppins", Sans-serif;
+  font-weight: 500;
+  line-height: 1.8em;
+}

@@ -1,0 +1,65 @@
+.contain    {
+    display: flex;
+}
+.box1 {
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_2.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.with{
+    color: #716c80;
+    font-family: "Lato",Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.box2{
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_4.png);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 20px;
+}   
+.box3{
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_2.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px
+}
+
+.box4{
+    background-image: url(https://www.meradigi.com/wp-content/uploads/2023/04/software_icon_1.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 145px 30px 65px 30px;
+    box-shadow: 0 10px 60px 0 rgba(0,0,0,.1);
+    border-style: solid;
+    border-width: 0 0 0 0;
+    border-color: #f5f5f5;
+    border-radius: 5px 5px 5px 5px;
+    margin-left: 20px;
+}
+.contain2{
+    display: flex;
+}
