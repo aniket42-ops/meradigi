@@ -1,0 +1,31 @@
+.main-footer {
+    color: rgb(0, 0, 0);
+    background-color: #DEDEDE;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin: auto;
+  }
+
+.services{
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+}
+
+.anchor{
+  text-decoration: none;
+  color:rgb(0, 0, 0);
+}
+
+.col-sm{
+  color: white;
+  background-color: black;
+  display:flex;
+  font-weight: 500;
+  font-family: Ubuntu,sans-serif;
+  align-items: center;
+  justify-content: center;
+  
+}

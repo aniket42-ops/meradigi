@@ -1,0 +1,20 @@
+.btn {
+  border: none;
+  background: transparent;
+  padding: 6px 16px;
+  font-size: 12px;
+  font-weight: 600;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  border-radius: 5px;
+  transition: 0.3s all ease-out;
+  cursor: pointer;
+  font-family:"Montserrat",sans-serif;
+}
+
+.btn :hover{
+  
+  color:#e22658 ;
+  text-decoration-color: #e22658;
+  text-decoration-line: underline;
+}

@@ -1,0 +1,27 @@
+.p{
+
+    height:100%;
+    width:100%;
+    
+    color:rgb(255, 255, 255);
+}
+.main-about{
+    background-color: #201e1e;
+}
+
+.newbg
+{
+    background: url('../../src/components/Menu/Assets/background.jpg');
+   
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #282828;
+    opacity: 0.96;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: relative;
+}
