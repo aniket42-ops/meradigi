@@ -10,7 +10,8 @@ import Moodle from "./components/Menu/Assets/Pages/Moodle";
 import Odoo from "./components/Menu/Assets/Pages/Odoo";
 import Mobile from "./components/Menu/Assets/Pages/Mobile";
 import Freelancer from "./components/Menu/Assets/Pages/Freelancer";
-
+import Seo from "./components/Menu/Assets/Pages/Digital Marketing/seo";
+import Radio from "./components/Menu/Assets/Pages/Digital Marketing/Radio";
 function App() {
   return (
     <>
@@ -26,6 +27,9 @@ function App() {
         <Route path="/Odoo" element={<Odoo/>}/>
         <Route path="/Mobile" element={<Mobile/>}/>
         <Route path="/Freelancer" element={<Freelancer/>}/>
+        <Route path="/seo" element={<Seo/>}/>
+        <Route path="/radio" element={<Radio/>}/>
+
        </Routes>
     </BrowserRouter>
     </>
